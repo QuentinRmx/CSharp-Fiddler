@@ -106,5 +106,10 @@
             Console.WriteLine($"Longest execution time: {longest}ms");
             Console.WriteLine($"Shortest execution time: {shortest}ms");
         }
+
+        public override AnalysisReport PerformAnalysis()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

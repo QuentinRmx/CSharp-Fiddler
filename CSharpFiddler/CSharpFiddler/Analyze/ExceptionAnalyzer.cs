@@ -41,5 +41,10 @@
 
             return traceString;
         }
+
+        public override AnalysisReport PerformAnalysis()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
