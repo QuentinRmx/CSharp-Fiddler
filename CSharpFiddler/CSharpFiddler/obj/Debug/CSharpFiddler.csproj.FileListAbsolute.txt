@@ -1,1 +1,6 @@
 C:\Users\qrim\Source\Repos\CSharp-Fiddler\CSharpFiddler\CSharpFiddler\bin\Debug\CSharpFiddler.exe.config
+C:\Users\qrim\Source\Repos\CSharp-Fiddler\CSharpFiddler\CSharpFiddler\bin\Debug\CSharpFiddler.exe
+C:\Users\qrim\Source\Repos\CSharp-Fiddler\CSharpFiddler\CSharpFiddler\bin\Debug\CSharpFiddler.pdb
+C:\Users\qrim\Source\Repos\CSharp-Fiddler\CSharpFiddler\CSharpFiddler\obj\Debug\CSharpFiddler.csprojResolveAssemblyReference.cache
+C:\Users\qrim\Source\Repos\CSharp-Fiddler\CSharpFiddler\CSharpFiddler\obj\Debug\CSharpFiddler.exe
+C:\Users\qrim\Source\Repos\CSharp-Fiddler\CSharpFiddler\CSharpFiddler\obj\Debug\CSharpFiddler.pdb

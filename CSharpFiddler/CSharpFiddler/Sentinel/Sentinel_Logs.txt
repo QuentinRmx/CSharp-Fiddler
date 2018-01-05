@@ -1,0 +1,1 @@
+﻿[05-Jan-18 3:28:55 PM] >> Void Main(System.String[]) :: Test de log

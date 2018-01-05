@@ -6,7 +6,6 @@
 //   Contains some datas about a specific function's performances.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
-
 namespace CSharpFiddler.Analyze
 {
     /// <summary>
